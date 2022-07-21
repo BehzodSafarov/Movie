@@ -20,6 +20,9 @@ app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
+var a=9;
+var k=0;
+// adding value
 app.MapControllers();
 
 app.Run();
