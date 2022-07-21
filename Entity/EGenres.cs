@@ -1,7 +1,7 @@
 namespace Movie.Entity;
 public enum EGenres
 {
-    Action=0,
+Action=0,
 Comedy=1,
 Drama=2,
 Fantasy=4,
